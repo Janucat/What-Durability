@@ -3,6 +3,7 @@
   "minVersion": "0.8",
   "package": "com.natamus.whatdurability.mixin",
   "compatibilityLevel": "JAVA_17",
+  "refmap": "whatdurability.refmap.json",
   "mixins": [
     "ItemStackMixin"
   ],
